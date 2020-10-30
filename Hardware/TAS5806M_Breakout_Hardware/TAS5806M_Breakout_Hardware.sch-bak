@@ -661,13 +661,13 @@ Right Channel Speaker
 $Comp
 L Device:Speaker LS2
 U 1 1 5FAAD2B1
-P 9400 4025
-F 0 "LS2" H 9363 3608 50  0000 C CNN
-F 1 "Speaker" H 9363 3699 50  0000 C CNN
-F 2 "Connector_JST:JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal" H 9400 3825 50  0001 C CNN
-F 3 "~" H 9390 3975 50  0001 C CNN
-	1    9400 4025
-	1    0    0    1   
+P 9400 3925
+F 0 "LS2" H 9570 3921 50  0000 L CNN
+F 1 "Speaker" H 9570 3830 50  0000 L CNN
+F 2 "Connector_JST:JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal" H 9400 3725 50  0001 C CNN
+F 3 "~" H 9390 3875 50  0001 C CNN
+	1    9400 3925
+	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR013
